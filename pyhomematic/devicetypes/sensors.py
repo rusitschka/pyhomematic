@@ -1240,6 +1240,7 @@ DEVICETYPES = {
     "HmIP-SWDO": IPShutterContactSabotage,
     "HmIP-SWDO-PL": IPShutterContactSabotage,
     "HmIP-SWDO-I": IPShutterContactSabotage,
+    "HmIP-SWDO-2": IPShutterContactSabotage,
     "HmIP-SWDM": IPShutterContact,
     "HmIP-SWDM-B2": IPShutterContact,
     "HmIP-SRH": RotaryHandleSensorIP,
